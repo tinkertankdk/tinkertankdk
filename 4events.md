@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Hverdagen i Guldminen
-description: 
+title: Hverdagen i Tinker Tank
+description:
 image: assets/images/events.jpg
 nav-menu: true
 ---

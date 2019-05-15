@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Guldgraver Projekter
-description: 
+title: Vores Medlemmer
+description:
 image: assets/images/become.jpg
 nav-menu: true
 ---
