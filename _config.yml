@@ -1,17 +1,17 @@
 # site settings
-title: Guldminen
+title: TinkerTank
 subtitle: 
-email: jh69@tmf.kk.dk
-description: Et eksperimentarium for cirkulær økonomi i København
+email: info@tinkertank.dk
+description: Et værkstedsfællesskab som ønsker at minimere spildet af materielle og menneskelige ressourcer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: Vasbygade 26
-city: København SV
+street_address: Horhusvej 5
+city: København 
 state: 
-zip_code: 2450
+zip_code: 2300
 country: Danmark
-phone: 74563423
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -19,7 +19,7 @@ tiles-count: 4
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/GuldminenKbh/
+facebook_url: https://www.facebook.com/tinkertank2300/
 github_url:
 gitlab_url: 
 googleplus_url: 

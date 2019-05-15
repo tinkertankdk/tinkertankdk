@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'GENBRUGSEKSPERIMENTET'
+landing-title: 'Foreningen TinkerTank'
 description: null
 image: null
 author: null
