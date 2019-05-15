@@ -1,17 +1,17 @@
 # site settings
 title: TinkerTank
-subtitle: 
+subtitle:
 email: info@tinkertank.dk
 description: Et værkstedsfællesskab som ønsker at minimere spildet af materielle og menneskelige ressourcer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "/project" # the base hostname & protocol for your site
 author:
 street_address: Horhusvej 5
-city: København 
-state: 
+city: København
+state:
 zip_code: 2300
 country: Danmark
-phone: 
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 4
 500px_url:
 facebook_url: https://www.facebook.com/tinkertank2300/
 github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # build settings
 markdown: kramdown
