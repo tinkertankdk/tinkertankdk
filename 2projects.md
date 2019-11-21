@@ -1,8 +1,8 @@
 ---
 layout: projects
-title: Vores Medlemmer
+title: Medlemmer
 description:
-image: assets/images/become.jpg
+image: assets/images/members.jpg
 nav-menu: true
 ---
 

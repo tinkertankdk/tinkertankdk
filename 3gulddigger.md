@@ -1,8 +1,8 @@
 ---
 layout: postwofooter
-title: Bliv Guldgraver
+title: Bliv Medlemmer
 description:
-image: assets/images/goldiging2.jpg
+image: assets/images/joinus.jpg
 nav-menu: true
 ---
 
