@@ -17,6 +17,12 @@ phone:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
 
+#collecions
+collections:
+  members:
+    output: true
+    permalink: /:collection/:name
+
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/tinkertank2300/
