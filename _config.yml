@@ -3,7 +3,7 @@ title: TinkerTank
 subtitle:
 email: info@tinkertank.dk
 description: Et værkstedsfællesskab som ønsker at minimere spildet af materielle og menneskelige ressourcer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tinkertankdk" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: Horhusvej 5
