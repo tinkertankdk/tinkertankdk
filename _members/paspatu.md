@@ -7,5 +7,4 @@ website:
 image: assets/images/members/paspatu.jpg
 instagram:
 ---
-Når VICTORIA ikke leger bestyrer for en fastfood kantine i det ydre rum, laver hun bøger og mærkelige skulpturer, installationer og kostumer.
-w
+MATHIAS OG FELIX eksperimenterer i værkstedet Paspatu med bl.a. rammekunsten. Her forvandles kasserede materialer og fortidens artistiske udtryksformer om til nutidige tolkninger.
