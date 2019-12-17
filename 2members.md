@@ -19,22 +19,22 @@ Herunder finder du en liste over de projekter, der er i TinkerTank.
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><a href="https:"><img src="assets/images/members/frida.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="http://www.studiodebris.dk"><img src="assets/images/members/hassan.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="http://www.resourcelab.dk"><img src="assets/images/members/ollis.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/frida"><img src="assets/images/members/frida.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/hassan"><img src="assets/images/members/hassan.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/ollis"><img src="assets/images/members/ollis.jpg" alt="" /></a></span></div>
 		<!-- Break -->
-		<div class="6u"><span class="image fit"><a href="http://www.plyssky.dk"><img src="assets/images/members/maiken.jpg" alt="" /></a></span></div>
-		<div class="6u"><span class="image fit"><a href="http://www.sydhavnen.dk"><img src="assets/images/members/maria.jpg" alt="" /></a></span></div>
+		<div class="6u"><span class="image fit"><a href="{{ site.baseurl }}/members/maiken"><img src="assets/images/members/maiken.jpg" alt="" /></a></span></div>
+		<div class="6u"><span class="image fit"><a href="{{ site.baseurl }}/members/maria"><img src="assets/images/members/maria.jpg" alt="" /></a></span></div>
 		<!-- Break -->
 
 	</div>
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><a href="http://www.plyssky.dk"><img src="assets/images/members/paspatu.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="https://www.facebook.com/Kokelik%C3%B3-149347375780413/"><img src="assets/images/members/sandra.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="https://www.facebook.com/Kokelik%C3%B3-149347375780413/"><img src="assets/images/members/resourcelab.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/paspatu"><img src="assets/images/members/paspatu.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/sandra"><img src="assets/images/members/sandra.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/resourcelab"><img src="assets/images/members/resourcelab.jpg" alt="" /></a></span></div>
 		<!-- Break -->
 
-		<div class="6u"><span class="image fit"><a href="http://www.plyssky.dk"><img src="assets/images/members/tinaanna.jpg" alt="" /></a></span></div>
+		<div class="6u"><span class="image fit"><a href="{{ site.baseurl }}/members/tinaanna"><img src="assets/images/members/tinaanna.jpg" alt="" /></a></span></div>
 		<div class="6u"><span class="image fit"><a href="{{ site.baseurl }}/members/trae"><img src="assets/images/members/traeverkstedet.jpg" alt="" /></a></span></div>
 		<!-- Break -->
 
@@ -43,11 +43,11 @@ Herunder finder du en liste over de projekter, der er i TinkerTank.
 
 		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/victoria"><img src="assets/images/members/victoria.jpg" alt="" /></a></span></div>
 		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/laerke"><img src="assets/images/members/laerke.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="https://www.facebook.com/Kokelik%C3%B3-149347375780413/"><img src="assets/images/members/daniel.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/daniel"><img src="assets/images/members/daniel.jpg" alt="" /></a></span></div>
 
 		<!-- Break -->
-		<div class="2u"><span class="image fit"><a href="http://www.plyssky.dk"><img src="assets/images/members/mai.png" alt="" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="http://www.sydhavnen.dk"><img src="assets/images/members/madeours.jpg" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a href="{{ site.baseurl }}/members/mai"><img src="assets/images/members/mai.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a href="{{ site.baseurl }}/members/madeours"><img src="assets/images/members/madeours.jpg" alt="" /></a></span></div>
 <!-- 		<div class="2u"><span class="image fit"><a href="https://www.resourcelab.dk"><img src="assets/images/resourcelab.png" alt="" /></a></span></div>
 		<div class="2u"><span class="image fit"><img src="assets/images/debris.png" alt="" /></span></div>
 		<div class="2u"><span class="image fit"><img src="assets/images/albanowik.jpg" alt="" /></span></div>
