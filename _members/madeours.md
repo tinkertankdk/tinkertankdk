@@ -5,6 +5,7 @@ contact:
 telephone:
 website:
 image: assets/images/members/madeours.jpg
+instagram: 
 ---
 Upcycling - redesign - interior
 

@@ -5,6 +5,7 @@ contact: laerkedalsted@gmail.com
 telephone: 29432282
 website: laerkeslegeplads.com
 image: assets/images/members/laerke.jpg
+instagram:
 ---
 Værksted location: Følg æstetikken af et teenageværelse og plastic crap fra en billig bras butik.
 
