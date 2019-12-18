@@ -6,7 +6,7 @@ description: Et værkstedsfællesskab som ønsker at minimere spildet af materie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: Horhusvej 5
+street_address: Horhusvej 5 i kælderen
 city: København
 state:
 zip_code: 2300
