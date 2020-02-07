@@ -4,8 +4,8 @@ name: MADE OURS
 contact:
 telephone:
 website:
-image: assets/images/members/madeours.jpg
-instagram: 
+image: assets/images/members/madeours.png
+instagram:
 ---
 Upcycling - redesign - interior
 

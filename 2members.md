@@ -6,8 +6,6 @@ image: assets/images/members.jpg
 nav-menu: true
 ---
 
-Herunder finder du en liste over de projekter, der er i TinkerTank.
-
 <!-- Guldminen består af en række Guldgraverprojekter. Alle arbejder på, at finde måder hvorpå vi kan genbruge så meget som muligt af det, der bliver afleveret på Vasbygade Genbrugscenter. Nogle Guldgravere arbejder med træ, andre med tøj, billerammer, værktøj osv. Herunder finder du en liste over de projekter, der er i TinkerTank. -->
 
 
