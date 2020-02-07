@@ -45,7 +45,7 @@ nav-menu: true
 
 		<!-- Break -->
 		<div class="2u"><span class="image fit"><a href="{{ site.baseurl }}/members/mai"><img src="assets/images/members/mai.png" alt="" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="{{ site.baseurl }}/members/madeours"><img src="assets/images/members/madeours.jpg" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a href="{{ site.baseurl }}/members/madeours"><img src="assets/images/members/madeours.png" alt="" /></a></span></div>
 <!-- 		<div class="2u"><span class="image fit"><a href="https://www.resourcelab.dk"><img src="assets/images/resourcelab.png" alt="" /></a></span></div>
 		<div class="2u"><span class="image fit"><img src="assets/images/debris.png" alt="" /></span></div>
 		<div class="2u"><span class="image fit"><img src="assets/images/albanowik.jpg" alt="" /></span></div>
