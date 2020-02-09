@@ -6,6 +6,11 @@ image: assets/images/members.jpg
 nav-menu: true
 ---
 
+Faste medlemmer af TinkerTank, består pt af denne skønne samling mennesker. Klik på billedet for at læse mere om personen eller værkstedet.
+At være en del af værkstedsfællesskabet i TinkerTank, betyder at vi alle brænder for stedet eller formålet på den ene eller den anden måde. Vi har mange forskellige kompetencer og vi arbejder lige nu på at skabe en ny struktur, som gør det nemmere for dig som besøgende, at vide hvornår vi er til at få fat i, og hvordan vi kan dele lidt ud af vores know-how. Følg med på vores facebook side, hvor vi - udover at fortælle om workshops og arrangementer vi laver - også deler denne kommende ændring.
+
+<a href="http://www.facebook.com/tinkertank2300">www.facebook.com/tinkertank2300</a>
+
 <!-- Guldminen består af en række Guldgraverprojekter. Alle arbejder på, at finde måder hvorpå vi kan genbruge så meget som muligt af det, der bliver afleveret på Vasbygade Genbrugscenter. Nogle Guldgravere arbejder med træ, andre med tøj, billerammer, værktøj osv. Herunder finder du en liste over de projekter, der er i TinkerTank. -->
 
 

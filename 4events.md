@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Hverdagen i Tinker Tank
+title: Hverdagen i TinkerTank
 description:
 image: assets/images/events.jpg
 nav-menu: true
