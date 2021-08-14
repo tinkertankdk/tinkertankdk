@@ -23,7 +23,7 @@ At være en del af værkstedsfællesskabet i TinkerTank, betyder at vi alle bræ
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/frida"><img src="assets/images/members/frida.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/hassan"><img src="assets/images/members/hassan.jpg" alt="" /></a></span></div>
+		<div class="4u"></div>
 		<div class="4u"><span class="image fit"><a href="{{ site.baseurl }}/members/ollis"><img src="assets/images/members/ollis.jpg" alt="" /></a></span></div>
 		<!-- Break -->
 		<div class="6u"><span class="image fit"><a href="{{ site.baseurl }}/members/maiken"><img src="assets/images/members/maiken.jpg" alt="" /></a></span></div>
